@@ -4,4 +4,7 @@ me = 1
 
 yes = "boom"
 
-one =1
+one = 1
+
+if yes == "boom":
+    print("booom")
